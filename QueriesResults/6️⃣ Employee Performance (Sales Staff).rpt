@@ -1,0 +1,24 @@
+﻿SalesPersonID Employee_fullname                                                                                                                                         Total_sales           Orders_handled
+------------- --------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------- --------------
+289           Jae B. Pak                                                                                                                                                1382996.5839          67
+276           Linda C. Mitchell                                                                                                                                         1271088.5216          59
+275           Michael G. Blythe                                                                                                                                         1057247.3786          62
+282           José Edvaldo. Saraiva                                                                                                                                     1044810.8277          43
+277           Jillian Carson                                                                                                                                            1040093.4071          63
+290           Ranjit R. Varkey Chudukatil                                                                                                                               867518.6141           39
+279           Tsvi Michael. Reiter                                                                                                                                      787204.4289           54
+281           Shu K. Ito                                                                                                                                                777941.6519           37
+284           Tete A. Mensa-Annan                                                                                                                                       600997.1704           34
+286           Lynn N. Tsoflias                                                                                                                                          585755.8006           43
+288           Rachel B. Valdez                                                                                                                                          581607.9321           44
+280           Pamela O. Ansman-Wolfe                                                                                                                                    504932.044            9
+283           David R. Campbell                                                                                                                                         490466.319            26
+278           Garrett R. Vargas                                                                                                                                         435948.9551           35
+274           Stephen Y. Jiang                                                                                                                                          178584.3625           8
+287           Amy E. Alberts                                                                                                                                            56637.7478            3
+285           Syed E. Abbas                                                                                                                                             21267.336             4
+
+(17 rows affected)
+
+
+Completion time: 2025-09-29T15:26:57.0312141+07:00

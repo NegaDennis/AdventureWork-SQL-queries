@@ -1,0 +1,17 @@
+﻿Territory_name                                     AvgDeliveryDays
+-------------------------------------------------- ---------------
+Australia                                          7
+Canada                                             7
+Central                                            7
+France                                             7
+Germany                                            7
+Northeast                                          7
+Northwest                                          7
+Southeast                                          7
+Southwest                                          7
+United Kingdom                                     7
+
+(10 rows affected)
+
+
+Completion time: 2025-09-29T15:46:31.7383280+07:00

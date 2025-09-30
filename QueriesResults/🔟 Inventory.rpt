@@ -1,0 +1,11 @@
+﻿Category                                           Subcategory                                        ProductName                                        QtyinInventory
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------
+Clothing                                           Tights                                             Women's Tights, M                                  0
+Clothing                                           Gloves                                             Half-Finger Gloves, M                              0
+Accessories                                        Bike Racks                                         Hitch Rack - 4-Bike                                0
+Clothing                                           Jerseys                                            Short-Sleeve Classic Jersey, M                     0
+
+(4 rows affected)
+
+
+Completion time: 2025-09-30T09:01:56.5340223+07:00

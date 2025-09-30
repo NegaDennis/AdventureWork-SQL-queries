@@ -1,0 +1,62 @@
+﻿Territory_name                                     Month       Sales
+-------------------------------------------------- ----------- ---------------------
+Northwest                                          1           605952.9228
+Northwest                                          2           169375.95
+Northwest                                          3           1162262.3308
+Northwest                                          4           270368.29
+Northwest                                          5           780139.1077
+Northwest                                          6           9652.11
+Northeast                                          1           194783.8143
+Northeast                                          3           340461.5103
+Northeast                                          4           2407.24
+Northeast                                          5           240725.2276
+Central                                            1           256402.8209
+Central                                            3           401240.9533
+Central                                            4           119.94
+Central                                            5           298101.02
+Southwest                                          1           781664.7548
+Southwest                                          2           285280.24
+Southwest                                          3           1485393.0425
+Southwest                                          4           417108.85
+Southwest                                          5           993543.9709
+Southwest                                          6           8907.16
+Southeast                                          1           196595.5544
+Southeast                                          3           406850.2148
+Southeast                                          4           2439.91
+Southeast                                          5           269604.5749
+Southeast                                          6           113.96
+Canada                                             1           558716.4573
+Canada                                             2           77497.26
+Canada                                             3           889729.565
+Canada                                             4           136178.31
+Canada                                             5           718309.8607
+Canada                                             6           10381.55
+France                                             1           254039.8174
+France                                             2           116780.27
+France                                             3           832926.0774
+France                                             4           150099.89
+France                                             5           316919.7393
+France                                             6           3313.01
+Germany                                            1           284982.52
+Germany                                            2           157836.4956
+Germany                                            3           558480.9033
+Germany                                            4           198883.403
+Germany                                            5           349616.334
+Germany                                            6           3455.60
+Australia                                          1           635623.473
+Australia                                          2           355170.42
+Australia                                          3           643500.468
+Australia                                          4           413116.58
+Australia                                          5           711308.7056
+Australia                                          6           9012.50
+United Kingdom                                     1           521055.8165
+United Kingdom                                     2           175784.40
+United Kingdom                                     3           496686.0266
+United Kingdom                                     4           206451.51
+United Kingdom                                     5           688406.4286
+United Kingdom                                     6           4169.95
+
+(55 rows affected)
+
+
+Completion time: 2025-09-29T13:47:49.9047017+07:00

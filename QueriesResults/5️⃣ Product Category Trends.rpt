@@ -1,0 +1,245 @@
+﻿ProductID   Category_name                                      Subcategory_name                                   Product_name                                       Total_sales
+----------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------------------------
+779         Bikes                                              Mountain Bikes                                     Mountain-200 Silver, 38                            2728136.296184
+780         Bikes                                              Mountain Bikes                                     Mountain-200 Silver, 42                            2394702.924403
+781         Bikes                                              Mountain Bikes                                     Mountain-200 Silver, 46                            2450246.433560
+782         Bikes                                              Mountain Bikes                                     Mountain-200 Black, 38                             3258189.422320
+783         Bikes                                              Mountain Bikes                                     Mountain-200 Black, 42                             2841691.786561
+784         Bikes                                              Mountain Bikes                                     Mountain-200 Black, 46                             2443984.152528
+785         Bikes                                              Mountain Bikes                                     Mountain-300 Black, 38                             145798.650000
+786         Bikes                                              Mountain Bikes                                     Mountain-300 Black, 40                             151255.191476
+787         Bikes                                              Mountain Bikes                                     Mountain-300 Black, 44                             149686.614000
+788         Bikes                                              Mountain Bikes                                     Mountain-300 Black, 48                             149038.620000
+980         Bikes                                              Mountain Bikes                                     Mountain-400-W Silver, 38                          241773.758000
+981         Bikes                                              Mountain Bikes                                     Mountain-400-W Silver, 40                          323703.820668
+982         Bikes                                              Mountain Bikes                                     Mountain-400-W Silver, 42                          217457.874000
+983         Bikes                                              Mountain Bikes                                     Mountain-400-W Silver, 46                          227347.667276
+984         Bikes                                              Mountain Bikes                                     Mountain-500 Silver, 40                            145089.432000
+985         Bikes                                              Mountain Bikes                                     Mountain-500 Silver, 42                            141360.498000
+986         Bikes                                              Mountain Bikes                                     Mountain-500 Silver, 44                            122512.431600
+987         Bikes                                              Mountain Bikes                                     Mountain-500 Silver, 48                            142897.270800
+988         Bikes                                              Mountain Bikes                                     Mountain-500 Silver, 52                            161293.345200
+989         Bikes                                              Mountain Bikes                                     Mountain-500 Black, 40                             101734.116000
+990         Bikes                                              Mountain Bikes                                     Mountain-500 Black, 42                             136293.476000
+991         Bikes                                              Mountain Bikes                                     Mountain-500 Black, 44                             125925.668000
+992         Bikes                                              Mountain Bikes                                     Mountain-500 Black, 48                             157569.082000
+993         Bikes                                              Mountain Bikes                                     Mountain-500 Black, 52                             96982.204000
+973         Bikes                                              Road Bikes                                         Road-350-W Yellow, 40                              1657198.182549
+974         Bikes                                              Road Bikes                                         Road-350-W Yellow, 42                              1120066.364309
+975         Bikes                                              Road Bikes                                         Road-350-W Yellow, 44                              694003.920000
+976         Bikes                                              Road Bikes                                         Road-350-W Yellow, 48                              1774883.557085
+977         Bikes                                              Road Bikes                                         Road-750 Black, 58                                 361145.312000
+997         Bikes                                              Road Bikes                                         Road-750 Black, 44                                 290298.624000
+998         Bikes                                              Road Bikes                                         Road-750 Black, 48                                 578174.312870
+999         Bikes                                              Road Bikes                                         Road-750 Black, 52                                 515666.906436
+789         Bikes                                              Road Bikes                                         Road-250 Red, 44                                   474498.570000
+790         Bikes                                              Road Bikes                                         Road-250 Red, 48                                   415760.436000
+791         Bikes                                              Road Bikes                                         Road-250 Red, 52                                   338159.640000
+792         Bikes                                              Road Bikes                                         Road-250 Red, 58                                   1021983.495000
+793         Bikes                                              Road Bikes                                         Road-250 Black, 44                                 1653397.492500
+794         Bikes                                              Road Bikes                                         Road-250 Black, 48                                 1546471.889040
+795         Bikes                                              Road Bikes                                         Road-250 Black, 52                                 1298640.525000
+796         Bikes                                              Road Bikes                                         Road-250 Black, 58                                 1024252.320000
+797         Bikes                                              Road Bikes                                         Road-550-W Yellow, 38                              876283.110208
+798         Bikes                                              Road Bikes                                         Road-550-W Yellow, 40                              750351.431192
+799         Bikes                                              Road Bikes                                         Road-550-W Yellow, 42                              683330.826500
+800         Bikes                                              Road Bikes                                         Road-550-W Yellow, 44                              543549.699000
+801         Bikes                                              Road Bikes                                         Road-550-W Yellow, 48                              877644.666216
+759         Bikes                                              Road Bikes                                         Road-650 Red, 58                                   69529.512000
+760         Bikes                                              Road Bikes                                         Road-650 Red, 60                                   218580.114792
+761         Bikes                                              Road Bikes                                         Road-650 Red, 62                                   204911.614960
+762         Bikes                                              Road Bikes                                         Road-650 Red, 44                                   242941.439260
+763         Bikes                                              Road Bikes                                         Road-650 Red, 48                                   205848.775691
+764         Bikes                                              Road Bikes                                         Road-650 Red, 52                                   124025.616000
+765         Bikes                                              Road Bikes                                         Road-650 Black, 58                                 202013.925568
+766         Bikes                                              Road Bikes                                         Road-650 Black, 60                                 118701.284000
+767         Bikes                                              Road Bikes                                         Road-650 Black, 62                                 64831.572000
+768         Bikes                                              Road Bikes                                         Road-650 Black, 44                                 112923.444192
+769         Bikes                                              Road Bikes                                         Road-650 Black, 48                                 71972.440800
+770         Bikes                                              Road Bikes                                         Road-650 Black, 52                                 237006.923153
+978         Bikes                                              Touring Bikes                                      Touring-3000 Blue, 44                              133365.033375
+979         Bikes                                              Touring Bikes                                      Touring-3000 Blue, 50                              348581.503515
+953         Bikes                                              Touring Bikes                                      Touring-2000 Blue, 60                              635723.715900
+954         Bikes                                              Touring Bikes                                      Touring-1000 Yellow, 46                            1426372.869324
+955         Bikes                                              Touring Bikes                                      Touring-1000 Yellow, 50                            981187.849200
+956         Bikes                                              Touring Bikes                                      Touring-1000 Yellow, 54                            667158.148800
+957         Bikes                                              Touring Bikes                                      Touring-1000 Yellow, 60                            1518133.101147
+958         Bikes                                              Touring Bikes                                      Touring-3000 Blue, 54                              290075.118375
+959         Bikes                                              Touring Bikes                                      Touring-3000 Blue, 58                              210946.176000
+960         Bikes                                              Touring Bikes                                      Touring-3000 Blue, 62                              135284.008125
+961         Bikes                                              Touring Bikes                                      Touring-3000 Yellow, 44                            358121.888775
+962         Bikes                                              Touring Bikes                                      Touring-3000 Yellow, 50                            291747.261750
+963         Bikes                                              Touring Bikes                                      Touring-3000 Yellow, 54                            196809.976125
+964         Bikes                                              Touring Bikes                                      Touring-3000 Yellow, 58                            130898.575500
+965         Bikes                                              Touring Bikes                                      Touring-3000 Yellow, 62                            351547.711410
+966         Bikes                                              Touring Bikes                                      Touring-1000 Blue, 46                              1586953.573023
+967         Bikes                                              Touring Bikes                                      Touring-1000 Blue, 50                              1071401.058000
+968         Bikes                                              Touring Bikes                                      Touring-1000 Blue, 54                              743353.026000
+969         Bikes                                              Touring Bikes                                      Touring-1000 Blue, 60                              1721242.514355
+970         Bikes                                              Touring Bikes                                      Touring-2000 Blue, 46                              438867.478140
+971         Bikes                                              Touring Bikes                                      Touring-2000 Blue, 50                              286218.660000
+972         Bikes                                              Touring Bikes                                      Touring-2000 Blue, 54                              772302.012300
+946         Components                                         Handlebars                                         LL Touring Handlebars                              1548.624000
+947         Components                                         Handlebars                                         HL Touring Handlebars                              12087.240000
+808         Components                                         Handlebars                                         LL Mountain Handlebars                             14331.206728
+809         Components                                         Handlebars                                         ML Mountain Handlebars                             33604.370240
+810         Components                                         Handlebars                                         HL Mountain Handlebars                             21845.404200
+811         Components                                         Handlebars                                         LL Road Handlebars                                 2725.848000
+813         Components                                         Handlebars                                         HL Road Handlebars                                 26929.545000
+994         Components                                         Bottom Brackets                                    LL Bottom Bracket                                  12244.932000
+996         Components                                         Bottom Brackets                                    HL Bottom Bracket                                  39581.442000
+948         Components                                         Brakes                                             Front Brakes                                       50299.311000
+907         Components                                         Brakes                                             Rear Brakes                                        15719.400000
+952         Components                                         Chains                                             Chain                                              9377.710144
+949         Components                                         Cranksets                                          LL Crankset                                        44855.244000
+950         Components                                         Cranksets                                          ML Crankset                                        10464.792000
+951         Components                                         Cranksets                                          HL Crankset                                        148622.582216
+945         Components                                         Derailleurs                                        Front Derailleur                                   44484.267800
+894         Components                                         Derailleurs                                        Rear Derailleur                                    25725.228000
+802         Components                                         Forks                                              LL Fork                                            4713.396000
+804         Components                                         Forks                                              HL Fork                                            17762.526000
+806         Components                                         Headsets                                           ML Headset                                         12749.589264
+807         Components                                         Headsets                                           HL Headset                                         6436.068000
+739         Components                                         Mountain Frames                                    HL Mountain Frame - Silver, 42                     146845.008600
+742         Components                                         Mountain Frames                                    HL Mountain Frame - Silver, 46                     280516.388400
+743         Components                                         Mountain Frames                                    HL Mountain Frame - Black, 42                      515964.356500
+747         Components                                         Mountain Frames                                    HL Mountain Frame - Black, 38                      277821.298500
+748         Components                                         Mountain Frames                                    HL Mountain Frame - Silver, 38                     538007.013400
+814         Components                                         Mountain Frames                                    ML Mountain Frame - Black, 38                      33480.960000
+831         Components                                         Mountain Frames                                    ML Mountain Frame - Black, 44                      39549.384000
+832         Components                                         Mountain Frames                                    ML Mountain Frame - Black, 48                      60182.304608
+924         Components                                         Mountain Frames                                    LL Mountain Frame - Black, 42                      63396.702000
+925         Components                                         Mountain Frames                                    LL Mountain Frame - Black, 44                      93584.422996
+926         Components                                         Mountain Frames                                    LL Mountain Frame - Black, 48                      57851.364000
+927         Components                                         Mountain Frames                                    LL Mountain Frame - Black, 52                      2248.110000
+917         Components                                         Mountain Frames                                    LL Mountain Frame - Silver, 42                     100569.357220
+918         Components                                         Mountain Frames                                    LL Mountain Frame - Silver, 44                     58777.530000
+919         Components                                         Mountain Frames                                    LL Mountain Frame - Silver, 48                     6970.920000
+920         Components                                         Mountain Frames                                    LL Mountain Frame - Silver, 52                     67332.750000
+904         Components                                         Mountain Frames                                    ML Mountain Frame-W - Silver, 40                   195826.389044
+905         Components                                         Mountain Frames                                    ML Mountain Frame-W - Silver, 42                   136970.658000
+906         Components                                         Mountain Frames                                    ML Mountain Frame-W - Silver, 46                   41069.352000
+942         Components                                         Mountain Frames                                    ML Mountain Frame-W - Silver, 38                   1529.178000
+943         Components                                         Mountain Frames                                    LL Mountain Frame - Black, 40                      1198.992000
+944         Components                                         Mountain Frames                                    LL Mountain Frame - Silver, 40                     69934.276220
+935         Components                                         Pedals                                             LL Mountain Pedal                                  10908.006000
+936         Components                                         Pedals                                             ML Mountain Pedal                                  12852.630000
+937         Components                                         Pedals                                             HL Mountain Pedal                                  38018.325800
+938         Components                                         Pedals                                             LL Road Pedal                                      21087.192000
+939         Components                                         Pedals                                             ML Road Pedal                                      24624.894000
+940         Components                                         Pedals                                             HL Road Pedal                                      32849.544000
+941         Components                                         Pedals                                             Touring Pedal                                      7143.318000
+833         Components                                         Road Frames                                        ML Road Frame-W - Yellow, 40                       33451.075500
+835         Components                                         Road Frames                                        ML Road Frame-W - Yellow, 44                       303255.818925
+836         Components                                         Road Frames                                        ML Road Frame-W - Yellow, 48                       193244.040000
+838         Components                                         Road Frames                                        HL Road Frame - Black, 44                          223548.246400
+839         Components                                         Road Frames                                        HL Road Frame - Black, 48                          52392.900000
+822         Components                                         Road Frames                                        ML Road Frame-W - Yellow, 38                       194639.186700
+717         Components                                         Road Frames                                        HL Road Frame - Red, 62                            219253.746400
+718         Components                                         Road Frames                                        HL Road Frame - Red, 44                            220112.646400
+719         Components                                         Road Frames                                        HL Road Frame - Red, 48                            52392.900000
+722         Components                                         Road Frames                                        LL Road Frame - Black, 58                          86506.129200
+723         Components                                         Road Frames                                        LL Road Frame - Black, 60                          12342.252000
+725         Components                                         Road Frames                                        LL Road Frame - Red, 44                            37229.088000
+726         Components                                         Road Frames                                        LL Road Frame - Red, 48                            28016.237600
+727         Components                                         Road Frames                                        LL Road Frame - Red, 52                            1820.988000
+729         Components                                         Road Frames                                        LL Road Frame - Red, 60                            37525.841600
+730         Components                                         Road Frames                                        LL Road Frame - Red, 62                            31743.327928
+736         Components                                         Road Frames                                        LL Road Frame - Black, 44                          22311.702000
+738         Components                                         Road Frames                                        LL Road Frame - Black, 52                          152887.249584
+908         Components                                         Saddles                                            LL Mountain Seat/Saddle                            5636.957088
+909         Components                                         Saddles                                            ML Mountain Seat/Saddle                            12497.167160
+910         Components                                         Saddles                                            HL Mountain Seat/Saddle                            16392.096000
+911         Components                                         Saddles                                            LL Road Seat/Saddle                                162.720000
+913         Components                                         Saddles                                            HL Road Seat/Saddle                                4232.256000
+914         Components                                         Saddles                                            LL Touring Seat/Saddle                             1480.752000
+915         Components                                         Saddles                                            ML Touring Seat/Saddle                             1972.656000
+916         Components                                         Saddles                                            HL Touring Seat/Saddle                             13454.784000
+895         Components                                         Touring Frames                                     LL Touring Frame - Blue, 50                        63216.432000
+896         Components                                         Touring Frames                                     LL Touring Frame - Blue, 54                        42210.972000
+897         Components                                         Touring Frames                                     LL Touring Frame - Blue, 58                        800.208000
+898         Components                                         Touring Frames                                     LL Touring Frame - Blue, 62                        3000.780000
+899         Components                                         Touring Frames                                     LL Touring Frame - Yellow, 44                      58699.391208
+900         Components                                         Touring Frames                                     LL Touring Frame - Yellow, 50                      45611.856000
+902         Components                                         Touring Frames                                     LL Touring Frame - Yellow, 58                      7201.872000
+903         Components                                         Touring Frames                                     LL Touring Frame - Blue, 44                        5001.300000
+885         Components                                         Touring Frames                                     HL Touring Frame - Yellow, 60                      232378.260212
+886         Components                                         Touring Frames                                     LL Touring Frame - Yellow, 62                      69127.135050
+887         Components                                         Touring Frames                                     HL Touring Frame - Yellow, 46                      52404.102000
+888         Components                                         Touring Frames                                     HL Touring Frame - Yellow, 50                      49994.718000
+889         Components                                         Touring Frames                                     HL Touring Frame - Yellow, 54                      323268.255972
+890         Components                                         Touring Frames                                     HL Touring Frame - Blue, 46                        68667.444000
+891         Components                                         Touring Frames                                     HL Touring Frame - Blue, 50                        74690.904000
+892         Components                                         Touring Frames                                     HL Touring Frame - Blue, 54                        324333.103309
+893         Components                                         Touring Frames                                     HL Touring Frame - Blue, 60                        221720.952434
+823         Components                                         Wheels                                             LL Mountain Rear Wheel                             3632.643000
+824         Components                                         Wheels                                             ML Mountain Rear Wheel                             38278.723320
+825         Components                                         Wheels                                             HL Mountain Rear Wheel                             49879.837275
+826         Components                                         Wheels                                             LL Road Rear Wheel                                 18672.282200
+828         Components                                         Wheels                                             HL Road Rear Wheel                                 528.448800
+815         Components                                         Wheels                                             LL Mountain Front Wheel                            6232.437000
+816         Components                                         Wheels                                             ML Mountain Front Wheel                            8653.635000
+817         Components                                         Wheels                                             HL Mountain Front Wheel                            7385.289000
+819         Components                                         Wheels                                             ML Road Front Wheel                                22871.290800
+820         Components                                         Wheels                                             HL Road Front Wheel                                32477.904000
+855         Clothing                                           Bib-Shorts                                         Men's Bib-Shorts, S                                15784.246000
+856         Clothing                                           Bib-Shorts                                         Men's Bib-Shorts, M                                26208.291644
+857         Clothing                                           Bib-Shorts                                         Men's Bib-Shorts, L                                8693.034000
+712         Clothing                                           Caps                                               AWC Logo Cap                                       38013.929371
+858         Clothing                                           Gloves                                             Half-Finger Gloves, S                              31559.564735
+859         Clothing                                           Gloves                                             Half-Finger Gloves, M                              45163.173784
+860         Clothing                                           Gloves                                             Half-Finger Gloves, L                              20369.057476
+861         Clothing                                           Gloves                                             Full-Finger Gloves, S                              3637.542500
+862         Clothing                                           Gloves                                             Full-Finger Gloves, M                              15003.895967
+863         Clothing                                           Gloves                                             Full-Finger Gloves, L                              20933.762665
+881         Clothing                                           Jerseys                                            Short-Sleeve Classic Jersey, S                     71606.073160
+882         Clothing                                           Jerseys                                            Short-Sleeve Classic Jersey, M                     21973.930000
+883         Clothing                                           Jerseys                                            Short-Sleeve Classic Jersey, L                     98472.717334
+884         Clothing                                           Jerseys                                            Short-Sleeve Classic Jersey, XL                    129145.570124
+713         Clothing                                           Jerseys                                            Long-Sleeve Logo Jersey, S                         21445.710000
+714         Clothing                                           Jerseys                                            Long-Sleeve Logo Jersey, M                         77087.411176
+715         Clothing                                           Jerseys                                            Long-Sleeve Logo Jersey, L                         123614.752130
+716         Clothing                                           Jerseys                                            Long-Sleeve Logo Jersey, XL                        58127.871840
+849         Clothing                                           Shorts                                             Men's Sports Shorts, M                             14091.003108
+850         Clothing                                           Shorts                                             Men's Sports Shorts, L                             4787.202000
+841         Clothing                                           Shorts                                             Men's Sports Shorts, S                             6350.085476
+867         Clothing                                           Shorts                                             Women's Mountain Shorts, S                         137164.127325
+868         Clothing                                           Shorts                                             Women's Mountain Shorts, M                         57685.758000
+869         Clothing                                           Shorts                                             Women's Mountain Shorts, L                         136774.017063
+874         Clothing                                           Socks                                              Racing Socks, M                                    9387.149432
+875         Clothing                                           Socks                                              Racing Socks, L                                    13784.589952
+852         Clothing                                           Tights                                             Women's Tights, S                                  26562.327884
+853         Clothing                                           Tights                                             Women's Tights, M                                  5219.304000
+854         Clothing                                           Tights                                             Women's Tights, L                                  30788.876769
+864         Clothing                                           Vests                                              Classic Vest, S                                    156398.067950
+865         Clothing                                           Vests                                              Classic Vest, M                                    90250.600550
+866         Clothing                                           Vests                                              Classic Vest, L                                    12839.700000
+876         Accessories                                        Bike Racks                                         Hitch Rack - 4-Bike                                237096.156000
+879         Accessories                                        Bike Stands                                        All-Purpose Bike Stand                             39591.000000
+870         Accessories                                        Bottles and Cages                                  Water Bottle - 30 oz.                              28654.163327
+871         Accessories                                        Bottles and Cages                                  Mountain Bottle Cage                               20229.750000
+872         Accessories                                        Bottles and Cages                                  Road Bottle Cage                                   15390.880000
+877         Accessories                                        Cleaners                                           Bike Wash - Dissolver                              18406.972080
+878         Accessories                                        Fenders                                            Fender Set - Mountain                              46619.580000
+707         Accessories                                        Helmets                                            Sport-100 Helmet, Red                              126263.877464
+708         Accessories                                        Helmets                                            Sport-100 Helmet, Black                            126940.270308
+711         Accessories                                        Helmets                                            Sport-100 Helmet, Blue                             128596.196959
+880         Accessories                                        Hydration Packs                                    Hydration Pack - 70 oz.                            105826.418334
+843         Accessories                                        Locks                                              Cable Lock                                         4700.520000
+844         Accessories                                        Pumps                                              Minipump                                           4041.978000
+873         Accessories                                        Tires and Tubes                                    Patch Kit/8 Patches                                8232.597632
+921         Accessories                                        Tires and Tubes                                    Mountain Tire Tube                                 15444.050000
+922         Accessories                                        Tires and Tubes                                    Road Tire Tube                                     9480.240000
+923         Accessories                                        Tires and Tubes                                    Touring Tire Tube                                  7425.120000
+928         Accessories                                        Tires and Tubes                                    LL Mountain Tire                                   21541.380000
+929         Accessories                                        Tires and Tubes                                    ML Mountain Tire                                   34818.390000
+930         Accessories                                        Tires and Tubes                                    HL Mountain Tire                                   48860.000000
+931         Accessories                                        Tires and Tubes                                    LL Road Tire                                       22435.560000
+932         Accessories                                        Tires and Tubes                                    ML Road Tire                                       23140.740000
+933         Accessories                                        Tires and Tubes                                    HL Road Tire                                       27970.800000
+934         Accessories                                        Tires and Tubes                                    Touring Tire                                       27105.650000
+
+(238 rows affected)
+
+
+Completion time: 2025-09-29T15:14:15.4093051+07:00

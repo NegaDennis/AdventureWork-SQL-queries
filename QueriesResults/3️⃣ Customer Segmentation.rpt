@@ -1,0 +1,27 @@
+﻿CustomerID  CustomerName                                                                                                                                              Lifetime_sales
+----------- --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------
+12301       Hannah H. Clark                                                                                                                                           13295.38
+12132       Taylor A. Jones                                                                                                                                           13294.27
+12308       Hannah F. Lee                                                                                                                                             13269.27
+12131       Kelli Chander                                                                                                                                             13265.99
+12300       Colleen E. She                                                                                                                                            13242.70
+12321       Madison Miller                                                                                                                                            13215.65
+12124       Taylor Smith                                                                                                                                              13195.64
+12307       Colleen A. Tang                                                                                                                                           13173.19
+12296       Hannah Garcia                                                                                                                                             13164.64
+11433       Jenny Chen                                                                                                                                                12909.6682
+11439       Jenny R. Yang                                                                                                                                             12489.1696
+11241       Isabella Clark                                                                                                                                            11469.1882
+11417       Jasmine E. Clark                                                                                                                                          11248.4582
+11420       Christy Rai                                                                                                                                               11200.7696
+11242       Ruben K. Gomez                                                                                                                                            11068.0082
+12655       Elizabeth Bradley                                                                                                                                         10899.62
+13263       Carson J. Gonzales                                                                                                                                        10872.06
+12323       Colleen Sharma                                                                                                                                            10836.90
+12333       Colleen L. Andersen                                                                                                                                       10829.22
+12650       Sarah Diaz                                                                                                                                                10813.63
+
+(20 rows affected)
+
+
+Completion time: 2025-09-29T13:48:22.5800394+07:00
