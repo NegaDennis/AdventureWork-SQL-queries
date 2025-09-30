@@ -8,7 +8,7 @@ SELECT TOP 10 YEAR(OrderDate) AS Year, MONTH(OrderDate) AS Month, SUM(SubTotal) 
 FROM Sales.SalesOrderHeader AS s
 WHERE OnlineOrderFlag = 1
 GROUP BY Year(OrderDate), MONTH(OrderDate)
-ORDER BY Year(OrderDate) DESC, MONTH(OrderDate) ASC
+ORDER BY Year(OrderDate) DESC, MONTH(OrderDate) DESC;
 ---------------------------------------------------
 
 ---2️ Top Products
@@ -25,7 +25,7 @@ LEFT JOIN (SELECT SalesOrderID
 ON s.SalesOrderID = d.SalesOrderID
 WHERE s.SalesOrderID IS NOT NULL
 GROUP BY ProductID
-ORDER BY Sales_Revenue DESC
+ORDER BY Sales_Revenue DESC;
 ---------------------------------------------------
 
 ---3️ Customer Segmentation
@@ -41,7 +41,7 @@ FROM (SELECT TOP 20 CustomerID, SUM(SubTotal) AS Lifetime_sales FROM Sales.Sales
 		ORDER BY Lifetime_sales DESC) AS a
 
 LEFT JOIN Person.Person AS b
-ON a.CustomerID  = b.BusinessEntityID
+ON a.CustomerID  = b.BusinessEntityID;
 ---------------------------------------------------
 
 ---4️ Territory Performance
@@ -58,8 +58,7 @@ FROM (SELECT TerritoryID, MONTH(OrderDate) AS Month, SUM(SubTotal) AS Sales
 		ORDER BY TerritoryID ASC, MONTH(OrderDate) ASC
 		OFFSET 0 ROWS) AS a
 LEFT JOIN Sales.SalesTerritory AS b
-ON a.TerritoryID = b.TerritoryID
-
+ON a.TerritoryID = b.TerritoryID;
 ---------------------------------------------------
 
 ---5️ Product Category Trends
@@ -87,7 +86,6 @@ LEFT JOIN Production.ProductSubcategory AS c
 ON b.ProductSubcategoryID = c.ProductSubcategoryID
 LEFT JOIN Production.ProductCategory AS d
 ON c.ProductCategoryID = d.ProductCategoryID;
-
 ---------------------------------------------------
 
 ---6️ Employee Performance (Sales Staff)
@@ -108,7 +106,6 @@ SELECT	a.SalesPersonID,
 FROM a
 LEFT JOIN Person.Person AS b
 ON a.SalesPersonID = b.BusinessEntityID;
-
 ---------------------------------------------------
 
 ---7️ Repeat Customers
@@ -122,8 +119,7 @@ FROM (SELECT DISTINCT CustomerID AS num_purchases
 		FROM SALES.SalesOrderHeader
 		WHERE YEAR(OrderDate) = '2013'
 		GROUP BY CustomerID
-		HAVING COUNT(CustomerID) >= 2) AS a
-
+		HAVING COUNT(CustomerID) >= 2) AS a;
 ---------------------------------------------------
 
 ---8️ Shipping & Fulfillment
@@ -137,7 +133,6 @@ LEFT JOIN Sales.SalesTerritory AS b
 ON a.TerritoryID = b.TerritoryID
 GROUP BY b.Name
 ORDER BY Territory_name;
-
 ---------------------------------------------------
 
 ---9️ Profitability
@@ -159,7 +154,6 @@ ON c.ProductSubcategoryID = d.ProductSubcategoryID
 LEFT JOIN Production.ProductCategory AS e
 ON d.ProductCategoryID = e.ProductCategoryID
 ORDER BY Category, Subcategory,ProductName,GrossProfit;
-
 ---------------------------------------------------
 
 ---10 Inventory
@@ -178,7 +172,7 @@ ON a.ProductID = b.ProductID
 LEFT JOIN Production.ProductSubcategory AS c
 ON c.ProductSubcategoryID = b.ProductSubcategoryID
 LEFT JOIN Production.ProductCategory AS d
-ON c.ProductCategoryID = d.ProductCategoryID
-
+ON c.ProductCategoryID = d.ProductCategoryID;
 ---------------------------------------------------
+
 
