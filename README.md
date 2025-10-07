@@ -6,7 +6,7 @@ For queries themselves ---> Queries.sql
 
 The short project makes use of the classic sample dataset, AdventureWork, provided by Microsoft ([link](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)). For this particular instance, the *AdventureWorks2022.bak* was used. The goal of the project is to demonstrate SQL skills needed for answering business questions with data.
 
-As I am not bipolar, I could not assume both roles, the business person requesting data/report and the data analyst making the queries. Luckily, advanced chatbots exist and I asked chatGPT to pretend to be the former :)
+As I am not bipolar ( :smiley: ), I could not assume both roles, the business person requesting data/report and the data analyst making the queries. Luckily, advanced chatbots exist and I asked chatGPT to pretend to be the former :smiley:
 
 Here are the 10 questions that I was asked:
 
