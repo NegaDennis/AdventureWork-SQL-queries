@@ -2,7 +2,10 @@
 Perform SQL Queries on AdventureWork dataset, simulating practical SQL skills in business context
 
 For queries results ---> /QueriesResults/anyfile.rpt
+
 For queries themselves ---> Queries.sql
+
+<br>
 
 The short project makes use of the classic sample dataset, AdventureWork, provided by Microsoft ([link](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)). For this particular instance, the *AdventureWorks2022.bak* was used. The goal of the project is to demonstrate SQL skills needed for answering business questions with data.
 
